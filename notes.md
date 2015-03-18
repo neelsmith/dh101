@@ -9,3 +9,7 @@ layout: page
 4. Editing and reading texts are different interpretive activities.
 5. Scholarly work is version controlled.
 6. Scholarly work is licensed for scholarly reuse.
+7. User interfaces are emphemeral; services have lengthier lives, but simple archival data formats are the key to long-term preservation.
+8. The purpose of studying digital humanities is **not** to create better *digital* scholarship:  it is to create better *technology-independent* scholarlship.
+9. Every assertion must have an accompanying test.
+
