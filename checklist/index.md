@@ -1,7 +1,10 @@
 ---
-title: Checklist 101
+title: Checklist
 layout: page
 ---
+
+Ten things, in no particular order, that you need to understand before starting work
+on a digital humanities project:
 
 1. Don't confuse identifier and label.
 2. Don't confuse search and retrieval.
