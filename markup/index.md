@@ -10,4 +10,5 @@ Use markup to express:
 3. manual disambiguation of material that would otherwise be automatically analyzed.
 
 That's it. 
-Any other analytical information can be expressed by relating a citable passage of your text to an analytical object.
+
+Any other analytical information can be expressed outside of your edition.  (Remember the [preliminary rule](../checklist/):  *editing and reading texts are different interpretive activities*.  ) Relating a citable passage of your text to an analysis requires nothing more than pairing a text citation with a citation of your analysis.
