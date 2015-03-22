@@ -6,7 +6,7 @@ layout: page
 Use markup to express:
 
 1. a canonical citation scheme.  Readers *must* be able to cite your edition.
-2. editorial status of text contents.  Readers need to know what you could read and what you had to make up.
+2. editorial status of text contents.  Readers need to know what you could read and what you had to make up (supply, correct, emend...)
 3. manual disambiguation of material that would otherwise be automatically analyzed.
 
 That's it. 
