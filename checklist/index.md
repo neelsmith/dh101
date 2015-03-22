@@ -3,18 +3,39 @@ title: Checklist
 layout: page
 ---
 
-Ten things, in no particular order, that you need to understand before starting work
-on a digital humanities project:
+A few things that you need to understand about digital scholarship  before starting work on a project.
 
-1. Don't confuse identifier and label.
-2. Don't confuse search and retrieval.
-3. Scholarly citation of evidence is declarative, not procedural.
-4. Editing and reading texts are different interpretive activities.
-5. Scholarly work is version controlled.
-6. Scholarly work is licensed for scholarly reuse.
-7. User interfaces are emphemeral; services have lengthier lives, but simple archival data formats are the key to long-term preservation.
-8. Make your computational environment replicable.
-9. Every assertion must have an accompanying test.
-8. The purpose of studying digital humanities is **not** to create better *digital* scholarship:  it is to create better *technology-independent* scholarlship.
+
+##The purpose of digital scholarship
+
+- The purpose of studying digital humanities is **not** to create better *digital* scholarship:  it is to create better *technology-independent* scholarship.
+
+
+## Digital scholarship in the scholarly community ##
+
+- Scholarly work is licensed for scholarly reuse.
+- Make your computational environment replicable.
+
+## Practical management and architecture ##
+
+
+- Scholarly work is version controlled.  Track changes and know what version of material you're talking about.
+- User interfaces are ephemeral; services have lengthier lives, but simple archival data formats are the key to long-term preservation.
+
+
+## Argument and demonstration
+
+- Every assertion must have an accompanying test.
+- Scholarly citation of evidence is declarative, not procedural: don't confuse retrieval and search.
+- Cite evidence with  identifiers, not labels.
+
+## Digital reading and editing ##
+
+- Editing and reading texts are different interpretive activities.  Don't complicate your edition with analytical markup.
+
+
+
+
+
 
 
